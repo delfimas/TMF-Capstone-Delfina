@@ -34,3 +34,5 @@ Contributions to improve the project are welcome! If you have any suggestions, b
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+Project Status: In Progress.
